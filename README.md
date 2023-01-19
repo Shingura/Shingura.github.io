@@ -1,1 +1,1 @@
-Redirect from horizons.zone to horizobs-zone.notion.site
+Redirect from horizons.zone to horizon-zone.notion.site
