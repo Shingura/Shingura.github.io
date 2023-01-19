@@ -1,2 +1,1 @@
-# Shingura.github.io
-Redirect to horizons.zone
+Redirect from horizons.zone to horizobs-zone.notion.site
